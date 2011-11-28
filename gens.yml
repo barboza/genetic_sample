@@ -1,0 +1,46 @@
+--- 
+- !ruby/object:Chromosome 
+  data: 
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  fitness: 0
+  id: 0
+- !ruby/object:Chromosome 
+  data: 
+  - 1
+  - 5
+  - 3
+  - 4
+  - 2
+  fitness: 2
+  id: 1
+- !ruby/object:Chromosome 
+  data: 
+  - 1
+  - 2
+  - 4
+  - 3
+  - 5
+  fitness: 3
+  id: 2
+- !ruby/object:Chromosome 
+  data: 
+  - 4
+  - 2
+  - 3
+  - 1
+  - 5
+  fitness: 0
+  id: 3
+- !ruby/object:Chromosome 
+  data: 
+  - 3
+  - 2
+  - 1
+  - 4
+  - 5
+  fitness: 2
+  id: 4
